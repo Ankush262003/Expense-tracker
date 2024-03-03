@@ -1,0 +1,17 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Server of expense tracker",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon"
+  },
+  "keywords": [
+    "nodemon"
+  ],
+  "author": "Shivank Singh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
