@@ -1,9 +1,11 @@
 import React from "react";
 
-const RecentTransections = () =>{
+const Headere = () =>{
     return(
         <>
-           Recent Transections
+          Header
         </>
     )
 }
+
+export default Headere
