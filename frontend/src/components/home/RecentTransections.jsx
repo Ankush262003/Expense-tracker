@@ -7,3 +7,5 @@ const RecentTransections = () =>{
         </>
     )
 }
+
+export default RecentTransections
